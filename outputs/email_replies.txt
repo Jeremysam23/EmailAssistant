@@ -1,0 +1,117 @@
+Customer Email: My order has not been delivered yet. Please tell me when I can expect it.\nIntent: General inquiry.\nSuggested Reply: Dear [Customer Name],
+
+Thank you for reaching out to us about the status of your order. We apologi[7D[K
+apologize for any inconvenience this has caused.
+
+To assist you, could you please provide us with your order number so we can[3D[K
+can look into the delivery status? We will do our best to provide you with [K
+an estimated delivery date or notify you when your order is shipped.
+
+If you have already received an update on the status, please let us know an[2D[K
+and we'll be happy to help.
+
+Thank you for your patience and cooperation.
+
+Best regards,
+[Your Name]
+Customer Support Assistant\n--------------------------------------------------\nCustomer Email: My laptop screen arrived broken. What can you do to help?\nIntent: Damaged product.\nSuggested Reply: Subject: Re: Damaged Laptop Screen - Assistance Required
+
+Dear [Customer's Name],
+
+Thank you for reaching out to us about the damaged laptop screen you receiv[6D[K
+received. We apologize for the inconvenience this has caused and are commit[6D[K
+committed to helping you resolve the issue.
+
+We will verify the details of your order and arrange a replacement for the [K
+damaged screen as soon as possible. Please allow [estimated time frame] for[3D[K
+for the replacement process to be completed.
+
+If you have any further questions or concerns, please don't hesitate to con[3D[K
+contact us. We appreciate your patience and understanding in this matter.
+
+Best regards,
+[Your Name]
+Customer Support Assistant\n--------------------------------------------------\nCustomer Email: My order has not been delivered yet. Please tell me when I can expect it.\nIntent: General inquiry.\nSuggested Reply: Subject: Re: Tracking Information for Your Order
+
+Dear [Customer Name],
+
+Thank you for reaching out to us regarding the status of your order. We apo[3D[K
+apologize again for the inconvenience caused by the damaged package you rec[3D[K
+received earlier.
+
+To assist you with the current issue, I've checked on the status of your or[2D[K
+order. Unfortunately, I don't have real-time access to the delivery carrier[7D[K
+carrier's system. However, I can suggest a few options to help you track th[2D[K
+the progress of your order.
+
+You can check the tracking information on our website by logging into your [K
+account and clicking on the "Order Tracking" link. Alternatively, you can c[1D[K
+contact our customer service team through this email or give us a call at [[1D[K
+[phone number], and we'll be happy to look into the matter further.
+
+Please let me know if there's anything else I can assist you with.
+
+Best regards,
+[Your Name]
+Customer Support Assistant\n--------------------------------------------------\nCustomer Email: My laptop screen arrived broken. What can you do to help?\nIntent: Return of damaged product.\nSuggested Reply: Subject: Re: Damaged Laptop Screen - Next Steps
+
+Dear [Customer Name],
+
+Thank you for reaching out to us regarding the damage to your laptop screen[6D[K
+screen. We apologize for the inconvenience this has caused.
+
+To help resolve this issue, we would like to verify the details of your ord[3D[K
+order and arrange for a replacement screen. Could you please provide us wit[3D[K
+with the order number and a detailed description of the damage?
+
+Our team will review this information and get back to you with a replacemen[10D[K
+replacement or a suitable refund, whichever is preferred.
+
+Thank you for your patience and cooperation.
+
+Best regards,
+[Your Name]
+Customer Support Team\n--------------------------------------------------\nCustomer Email: My order has not been delivered yet. Please tell me when I can expect it.\nIntent: General inquiry.\nSuggested Reply: Subject: Re: Status of Your Order
+
+Dear [Customer's Name],
+
+Thank you for reaching out to us regarding the status of your order. We apo[3D[K
+apologize again for any inconvenience caused by the delayed delivery of you[3D[K
+your package. We are here to help and would like to provide you with an upd[3D[K
+update on the expected delivery date.
+
+Our system indicates that there may be an issue with the tracking informati[9D[K
+information, and we are investigating this matter further. We will provide [K
+you with a revised delivery date as soon as we have more information.
+
+Please be assured that we are working diligently to resolve the issue and e[1D[K
+ensure that your order is delivered to you as soon as possible.
+
+If you have any further questions or concerns, please don't hesitate to con[3D[K
+contact us. We appreciate your patience and understanding in this matter.
+
+Thank you for your business.
+
+Best regards,
+[Your Name]
+Customer Support Team\n--------------------------------------------------\nCustomer Email: My laptop screen arrived broken. What can you do to help?\nIntent: Damaged product.\nSuggested Reply: Subject: Re: Damaged Laptop Screen
+
+Dear [Customer's Name],
+
+Thank you for reaching out to us about the issue with your laptop screen. W[1D[K
+We apologize for the inconvenience this has caused and are committed to hel[3D[K
+helping you resolve the problem.
+
+We will verify the damage and arrange a replacement as soon as possible. In[2D[K
+In the meantime, we would like to request some additional information to fa[2D[K
+facilitate the process. Could you please provide us with the order number a[1D[K
+and a clear description of the damage?
+
+We appreciate your patience and understanding as we work to resolve this is[2D[K
+issue.
+
+Thank you for your business.
+
+Best regards,
+[Your Name]
+Customer Support Team\n--------------------------------------------------\n
