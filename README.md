@@ -29,4 +29,3 @@ A Python-based AI Email Assistant that analyzes customer emails, detects their i
 
 ## Note
 The assistant generates suggested replies. Review them before sending.
-EOF
