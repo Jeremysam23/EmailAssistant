@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Intelligent Email Assistant using Ollama
 
 ## Overview
